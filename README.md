@@ -32,7 +32,7 @@ It was really hard to have all the moving components animate together. I did som
 ## References and links
 
 Tutorial videos that helps me for this project:
-https://www.youtube.com/watch?v=giXV6xErw0Y
-https://www.youtube.com/watch?v=06-ZvYmSeus
-https://www.youtube.com/watch?v=hk326ZHlENQ
-https://www.youtube.com/watch?v=c6WdJltqEtM
+1.https://www.youtube.com/watch?v=giXV6xErw0Y
+2.https://www.youtube.com/watch?v=06-ZvYmSeus
+3.https://www.youtube.com/watch?v=hk326ZHlENQ
+4.https://www.youtube.com/watch?v=c6WdJltqEtM
